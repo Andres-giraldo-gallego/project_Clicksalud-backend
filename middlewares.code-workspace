@@ -1,0 +1,25 @@
+{
+  "folders": [
+	{
+		"name": "middlewares",
+		"path": "../../Users/ASUS/OneDrive/Documentos/Tripleten/web_project_api_full/backend/middlewares"
+	},
+	{
+		"name": "models",
+		"path": "../../Users/ASUS/OneDrive/Documentos/Tripleten/web_project_api_full/backend/models"
+	},
+	{
+		"name": "routes",
+		"path": "../../Users/ASUS/OneDrive/Documentos/Tripleten/web_project_api_full/backend/routes"
+	},
+	{
+		"name": "project_Clicksalud-backend",
+		"path": "."
+	},
+	{
+		"name": "controllers",
+		"path": "../../Users/ASUS/OneDrive/Documentos/Tripleten/web_project_api_full/backend/controllers"
+	}
+],
+  "settings": {}
+}

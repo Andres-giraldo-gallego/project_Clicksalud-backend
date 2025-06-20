@@ -1,0 +1,38 @@
+{
+  "name": "project_clicksalud-backend",
+  "version": "1.0.0",
+  "description": "backend clicksalud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "npx eslint .",
+    "dev": "nodemon app.js",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andres-giraldo-gallego/project-Clicksalud-backend.git"
+  },
+  "author": "andresgi0521@hotmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andres-giraldo-gallego/project-Clicksalud-backend/issues"
+  },
+  "homepage": "https://github.com/Andres-giraldo-gallego/project-Clicksalud-backend#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "celebrate": "^15.0.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "eslint": "^8.2.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.31.0",
+    "express": "^4.21.2",
+    "express-winston": "^4.2.0",
+    "joi": "^17.13.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.16.0",
+    "nodemon": "^3.1.10",
+    "validator": "^13.15.15"
+  }
+}
